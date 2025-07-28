@@ -83,5 +83,12 @@
     "url": "https://shuga.co",
     "rss": "https://shuga.co/feed.xml",
     "owner": "sapphic_webring_contact@shuga.co"
-  }
+  },
+  {
+  "name": "Maeve",
+  "slug": "maeve",
+  "about": "I code stuff sometimes, web dev is my main niche. Okay at everything, great at nothing B)",
+  "url": "https://ytrav.me",
+  "owner": "maeve@ytrav.me"
+}
 ]
